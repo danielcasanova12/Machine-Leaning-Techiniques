@@ -98,4 +98,6 @@ Dados Desbalanceados
 * Scaling/Normalização: Ajustar a escala dos dados para que estejam em uma faixa similar.
 * Shuffling: Embaralhar os dados para evitar que o modelo aprenda padrões indesejados.
 
+* 
+
 
